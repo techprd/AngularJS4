@@ -1,6 +1,8 @@
 # TodoApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+Getting Started with Angular 4 and Angular CLI 
+
+## [Full Tutorial available here](http://techprd.com/getting-started-with-angular-4-angular-cli)
 
 ## Development server
 
